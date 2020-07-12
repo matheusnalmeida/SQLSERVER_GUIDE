@@ -23,9 +23,8 @@
 
 ## Usability
 
-```
-To test the scripts it is only necessary to restore the database backup located here in the repository.
-```
+To test the scripts it is only necessary to restore the database backup located [here](https://github.com/matheusnalmeida/SQLSERVER_GUIDE/tree/master/backup) in the repository.
+
 
 ## Author
 
